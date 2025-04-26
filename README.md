@@ -2,7 +2,9 @@
 
 🌎 Independent Developer | Remote Worker | Freedom Pursuer  
 🛠️ Skills: Frontend (Vue, Uniapp) | Backend (Spring Boot, ThinkPHP) | AI-assisted development  
-📫 Contact: luoyunlai15@gmail.com
+📫 Contact
+- Portfolio site coming soon!
+- For inquiries: (contact information available upon request)
 
 ---
 "Freedom is the ultimate pursuit."
